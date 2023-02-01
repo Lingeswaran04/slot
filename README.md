@@ -17,7 +17,7 @@ Execute the program
 # CODE
 # Design a Webpage to Display Timetable 
 #Developed by:LINGESWARAN.K
-#RegisterNumber:22005148
+#RegisterNumber:212222110022
 ```
 <TABLE BORDER="8" width="750" bgcolor="lavender" cellspacing="10" cellpadding="15"> 
 <TR> 
@@ -30,6 +30,7 @@ Execute the program
 </TR>
 <TR>
 	<TD width="25%">DAYS</TD> 
+	<TD width="25%">DATE</TD>
 	<TD width="25%">(8to10)</TD>
 	<TD width="25%">(10to11)</TD>
       <TD width="25%">(11to12)</TD>
@@ -40,17 +41,19 @@ Execute the program
 </TR>
 <TR>
       <TD width="25%">MONDAY</TD>
+      <TD width="25%">(30-1-23)</TD>
       <TD width="25%">FREE HOUR</TD>
       <TD width="25%">EDM</TD>
       <TD width="25%">EDM</TD>  
       <TD width="25%">LUNCH</TD>
-      <TD width="25%">WEB</TD>
+      <TD width="25%">FREE HOUR</TD>
       <TD width="25%">FREE HOUR</TD>
  </TR>
 <TR>
       <TD width="25%">TUESDAY</TD>
+      <TD width="25%">(31-1-23)</TD>
       <TD width="25%">CHEMISTRY</TD>
-      <TD width="25%">ENGLISH</TD>
+      <TD width="25%">FREE HOUR</TD>
       <TD width="25%">ENGLISH</TD>
       <TD width="25%">LUNCH</TD>
       <TD width="25%">DE</TD>
@@ -58,6 +61,7 @@ Execute the program
  </TR>
 <TR>
       <TD width="25%">WEDNESDAY</TD>
+      <TD width="25%">(1-2-23)</TD>
       <TD width="25%">EDM</TD>
       <TD width="25%">FREE HOUR</TD>
       <TD width="25%">FREE HOUR</TD>
@@ -67,6 +71,7 @@ Execute the program
  </TR>
 <TR>
       <TD width="25%">THURSDAY</TD>
+      <TD width="25%">(2-2-23)</TD>
       <TD width="25%">FREE HOUR</TD>
       <TD width="25%">FREE HOUR</TD>
       <TD width="25%">FREE HOUR</TD>
@@ -76,6 +81,7 @@ Execute the program
  </TR>
 <TR>
       <TD width="25%">FRIDAY</TD>
+      <TD width="25%">(3-2-23)</TD>
       <TD width="25%">SOFT SKILLS</TD>
       <TD width="25%">WEB</TD>
       <TD width="25%">WEB</TD>
